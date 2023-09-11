@@ -14,3 +14,4 @@
   
 * Responsive design- It is responsive for all devices.
 
+Tech used- ReactJs, ChakraUI
