@@ -56,7 +56,7 @@ const App = () => {
   return (
     <Flex
       w={"100%"}
-      h={"100%"}
+      h={"100vh"}
       direction={"column"}
       justifyContent={"center"}
       alignItems={"center"}
