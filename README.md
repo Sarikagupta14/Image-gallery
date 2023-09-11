@@ -4,6 +4,12 @@
 
 ✴ React Image Gallery allows developers to create visually appealing and interactive image galleries that can be easily integrated into their React applications.
 
+![image](https://github.com/Sarikagupta14/Image-gallery/assets/121433831/60872669-d275-4f21-be70-952bffc71abf)
+
+![image](https://github.com/Sarikagupta14/Image-gallery/assets/121433831/2e7f7dbc-ea45-483b-bbe5-8b607eafa136)
+
+![image](https://github.com/Sarikagupta14/Image-gallery/assets/121433831/d4fc51b7-b0e3-4964-b76b-d519e4a4e67e)
+
 ✴ Features:
 * Navigational control-
  1)There ae two navigation buttons provided just below the displayed Image which help in swiping images left/Right.
