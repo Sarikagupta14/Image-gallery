@@ -17,7 +17,7 @@
  2)Other gallery images are shown below the buttons, Users can choose any one and that will get displayed in center.
   
 * ZoomIn & ZoomOut feature-Users can zoom in and zoom out by clicking on displayed images (made using react-zoom-pan-pinch library).
-  
+* Hover effect- Users can see hover effect while clicking on each image in gallery which indicates the displayed image.
 * Responsive design- It is responsive for all devices.
 
 Tech used- ReactJs, ChakraUI
